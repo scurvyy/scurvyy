@@ -3,7 +3,7 @@
 - 🤪 Tenho 17 anos
 - 🔭 Atualmente, em busca do meu primeiro emprego em tecnologia
 - 🌱 Estudando frameworks
-- 👻 Entusiasta de tecnologia e cripto
+- 👻 Entusiasta de tecnologia e criptomoeda
 
 <div align="center">
   <a href="https://github.com/carloseduardojunior">

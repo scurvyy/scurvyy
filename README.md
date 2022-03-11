@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Carlos Junior 👋
 
 - 🤪 Tenho 17 anos
-- 🔭 Atualmente, em busca do meu primeiro emprego em tecnologia
-- 🌱 Estudando frameworks
+- 🔭 Atualmente, em busca do meu primeiro emprego em tecnologia na área de Front-End
+- 🌱 Estudando frameworks e fundamentos de desenvolvimento web, e prestes a inicar a faculdade de Análise e Desenvolvimento de Sistemas
 - 👻 Entusiasta de tecnologia e criptomoeda
 
 <div align="center">

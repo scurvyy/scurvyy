@@ -2,7 +2,7 @@
 
 - 🤪 Tenho 17 anos
 - 🔭 Atualmente, em busca do meu primeiro emprego em tecnologia na área de Front-End
-- 🌱 Estudando frameworks e fundamentos de desenvolvimento web, e prestes a inicar a faculdade de Análise e Desenvolvimento de Sistemas
+- 🌱 Estudando frameworks e fundamentos de desenvolvimento web.
 - 👻 Entusiasta de tecnologia e criptomoeda
 
 <div align="center">

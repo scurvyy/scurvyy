@@ -2,7 +2,7 @@
 
 - 🤪 Tenho 17 anos
 - 🔭 Atualmente, em busca da minha primeira oportunidade em tecnologia na área de Front-End
-- 🌱 Atualmente, estudando HTML, CSS, JavaScript/TypeScript, mySQL Java, Angular e Spring Boot.
+- 🌱 Atualmente, estudando HTML, CSS, JavaScript/TypeScript, mySQL, Java, Angular e Spring Boot.
 - 👻 Entusiasta de tecnologia e criptomoeda
 
 <div align="center">

@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Carlos Junior 👋
 
-- 🤪 Tenho 17 anos
+- 🤪 Tenho 18 anos
 - 🔭 Atualmente, em busca da minha primeira oportunidade em tecnologia na área de Front-End
 - 🌱 Atualmente, estudando HTML, CSS, JavaScript/TypeScript, mySQL, Java, Angular e Spring Boot.
 - 👻 Entusiasta de tecnologia e criptomoeda

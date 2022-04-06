@@ -1,9 +1,9 @@
 ### Olá! Eu sou o Carlos Junior 👋
 
-- 🤪 Tenho 18 anos
-- 🔭 Atualmente, em busca da minha primeira oportunidade em tecnologia na área de Front-End
-- 🌱 Atualmente, estudando HTML, CSS, JavaScript/TypeScript, mySQL, Java, Angular e Spring Boot.
-- 👻 Entusiasta de tecnologia e criptomoeda
+- 🤪 Tenho 18 anos e decidi estudar programação quando estava no ultimo bimestre do ensino médio na escola.
+- 🔭 Atualmente, em busca de freelances para alavancar minha carreira em desenvolvimento.
+- 🌱 No momento, estudando sobre Front-End com base em HTML, CSS E JS e buscando conhecimento sobre UX e UI.
+- 👻 Gosto de conhecer linguagens e sempre estar aprendendo sobre algo desde que envolva tecnologia.
 
 <div align="center">
   <a href="https://github.com/carloseduardojunior">

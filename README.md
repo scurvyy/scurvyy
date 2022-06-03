@@ -1,27 +1,38 @@
-### Olá! Eu sou o Carlos Junior 👋
-
-- 🤪 Tenho 18 anos.
-- 🔭 Atualmente, em busca de freelances para alavancar minha carreira em desenvolvimento.
-- 🌱 No momento, estudando sobre Back-End com C# .NET.
-- 👻 Gosto de conhecer linguagens e sempre estar aprendendo sobre algo desde que envolva tecnologia.
-
-<div align="center">
-  <a href="https://github.com/scurvyy">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=carloseduardojunior&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloseduardojunior&layout=compact&langs_count=7&theme=tokyonight"/>
+<a target='_blank' href="https://twitch.tv/scurvyy7__">
+        <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
+    </a>
+    <a target='_blank' href="https://twitter.com/scurvyy7">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+    </a>
+     <a target='_blank' href="https://instagram.com/junioor7.exe">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    </a>
+     <a target='_blank' href="https://www.linkedin.com/in/carlos-eduardo-junior-965241208/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
     </div>
-  
-  <div style="display: inline_block"><br>
-    <img align="center" alt="Carlos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Carlos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Carlos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    </div>
-  
-  ## 
-  
-  <div>
-  <a href="https://instagram.com/junioor7.exe" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/scurvyy7__" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:junioor.barbos4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/carlos-eduardo-965241208/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
+    
+## Hello there
+
+Welcome to my profile, I will tell you a little about myself.
+
+## Public information
+
+My name is Carlos or Junior. I currently live in São Paulo, Brazil.
+
+In my time, I study programming with the C# .NET backend and I like to improve my skills on programming.
+
+In my free time, I like to play games or watch content that helps me improve my soft skills.
+
+## Detailed Information
+
+* **Name**: Carlos Junior
+* **Age**: 18
+* **Living in**: Guarulhos - SP, Brazil
+* **Stack**: C# - .NET - JavaScript - SQL - Azure
+
+## Curiosities about me
+
+* I really like to help people.
+* I have loved technologies since I was 6 years old.
+* I like to be doing things and innovating.

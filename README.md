@@ -1,3 +1,4 @@
+<a href = "mailto:junioor.barbos4@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 <a target='_blank' href="https://twitch.tv/scurvyy7__">
         <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
     </a>
